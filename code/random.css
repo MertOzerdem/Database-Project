@@ -1,0 +1,44 @@
+/*<!-- # SAMPLE CSS # OGUZ KAAN AGAC: 04/05/2018 # VER 1.0 ?>-->*/
+
+.vertical-center {
+    min-height: 100%;
+    /* Fallback for browsers do NOT support vh unit */
+    min-height: 100vh;
+    /* These two lines are counted as one :-)       */
+    min-width: 100%;
+
+    display: flex;
+    align-items: center;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.container-fluid {
+    height: 100%;
+    display: table;
+    width: 100%;
+    padding: 0;
+}
+
+.row-fluid {
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+.centering {
+    float: none;
+    margin: 0 auto;
+}
+
+.my-table {
+    font-size: small;
+    margin-top: 1%;
+    margin-right: 5%;
+    margin-left: 5%;
+}

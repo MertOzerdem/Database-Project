@@ -1,7 +1,6 @@
 # CS-353
 CS 353 Project - Scientific Papers Data Management System
 
-Spring 2018
 
 ## GROUP 1 - MEMBERS
 * Berke Deniz BAŞARAN - 21400996 - Section 03
